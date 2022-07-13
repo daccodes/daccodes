@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dario Chiapperini
 - 👀 I’m interested in web development  
-- 🌱 I’m currently learning frontend technologies
+- 🌱 I’m currently writing my personal blog and learn new things everyday.
 - ✨ I’m looking to collaborate on new projects
 - 💪 I'm ready to work on new tasks and learn new things
